@@ -5,6 +5,7 @@
 - ⚡️  Looking for Software Engineering and ML Engineering roles. 
 - 💻 Proficient in Python, Javascript, React.JS, Flask, MongoDB, MySQL, Docker, Kubernetes, Spark
 - 💥 Interested in Distributed Systems & Computer Vision Technologies
+- 🌱 Reseached on Generating and quality assessment of deep fake Face Morphed Images. 
 - ⚡️ Enjoy running, cycling and playing badminton 
 
 
