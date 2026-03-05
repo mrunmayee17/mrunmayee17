@@ -5,6 +5,7 @@
 - ⚡️ Proficient & experienced in Fullstack Engineering, ML and Generative AI  
 - 🔭 Interested in Distributed Systems & Computer Vision Technologies
 - 🌱 Reseached on generation and quality assessment of deep fake Face Morphed Images. 
+- ⚡️ I love participating in hackathons and a serial hackathon winner, Winner of LLM x Law Stanford Hackathon , Agent2Agent Hackathon for GrowthLabs & Gemini 3 Super Hacks
 - ⚡️ Enjoy running, cycling and playing badminton 
 
 
