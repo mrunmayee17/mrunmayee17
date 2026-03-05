@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🎓 Computer Science Graduate from University at Buffalo, The State University of New York at Buffalo
+- 🎓 M.S. in Computer Science (University at Buffalo, SUNY) with research-focused specialization in Generative AI & Machine Learning and 4 years of industry experience.
 - 👩‍💻 Passionate about building scalable systems and contributing quality code.  
-- ⚡️ Proficient & experienced in Python, Javascript, React.JS, Flask, MongoDB, MySQL, Docker, Kubernetes, Spark
-- 💻 Looking for AI/ ML Engineering, FDE, DevREL roles. 
+- ⚡️ Proficient & experienced in Fullstack Engineering, ML and Generative AI  
 - 🔭 Interested in Distributed Systems & Computer Vision Technologies
 - 🌱 Reseached on generation and quality assessment of deep fake Face Morphed Images. 
 - ⚡️ Enjoy running, cycling and playing badminton 
