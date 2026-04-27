@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 - 🎓 M.S. in Computer Science (University at Buffalo, SUNY) with research-focused specialization in Generative AI & Machine Learning and 4 years of industry experience.
-- 👩‍💻 Passionate about building scalable systems and contributing quality code.  
+- 👩‍💻 Passionate about building scalable systems and contributing quality code.
 - ⚡️ Proficient & experienced in Fullstack Engineering, ML and Generative AI  
-- 🔭 Interested in Distributed Systems & Computer Vision Technologies
-- 🌱 Reseached on generation and quality assessment of deep fake Face Morphed Images. 
-- ⚡️ I love participating in hackathons and a serial hackathon winner, Winner of LLM x Law Stanford Hackathon , Agent2Agent Hackathon for GrowthLabs & Gemini 3 Super Hacks
-- ⚡️ Enjoy running, cycling and playing badminton 
+- 🛠️ I enjoy turning complex AI workflows into clear demos, tutorials, architecture diagrams, and reproducible developer projects.
+- 🔬 Research background in deepfake and face morph generation/quality assessment using GANs and computer vision.
+- 🏆 I love participating in hackathons and a serial hackathon winner, Winner of LLM x Law Stanford Hackathon , Agent2Agent Hackathon for GrowthLabs & Gemini 3 Super Hacks
+- ⚡ Enjoy running, cycling and playing badminton
+- Read my technical blogs at https://medium.com/@mrunmayeerane17 & https://mrunmayee17.github.io/
 
 
 <!--
